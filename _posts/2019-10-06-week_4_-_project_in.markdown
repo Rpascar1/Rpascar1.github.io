@@ -6,7 +6,7 @@ permalink:  week_4_-_project_in
 ---
 
 
-Flatiron’s third week had just begun, the pace was hectic - overwhelming. Like a Hell Week of sorts. The amount of work I had cranked out is impressive to me even now after four weeks. If I could take time to do some review, I would be 20 lessons ahead of something that I thought was extremely hard previously. If I go back now, I can often pass tests in minutes that I spent hours on. I am genuinely proud of myself. 
+Flatiron’s third week had just begun, the pace was hectic - overwhelming. Like a Hell-week of sorts. The amount of work I had cranked out is impressive to me even now after four weeks. If I could take time to do some review, I would be 20 lessons ahead of something that I thought was extremely hard previously. If I go back now, I can often pass tests in minutes that I spent hours on. I am genuinely proud of myself. 
 The more code I write, the more confidence I gain.  I have found myself jumping in to help answer questions.  Even when I do not know the answer immediately, the challenge of trying to figure it out is very exciting.
 
 Sometimes people get frustrated. They just want to be told the answer and, I get it. But I came here to do sit ups. Coding sit-ups that is. Navy Seal Jocko Willink says, there is no easy way. If you want to be better, be better. The short cut is a lie. Meaning, you need to do the work. My coding mentor says he isn’t that smart, (I disagree) that he just made a million mistakes and learned from them. 
