@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails is fun."
-date:       2019-12-08 21:40:42 +0000
+date:       2019-12-08 16:40:43 -0500
 permalink:  rails_is_fun
 ---
 
@@ -24,6 +24,8 @@ When you rely on your equipment for income do not take risks for the newest upda
 
 I kept running into an issue that really wasn't when I tried making sure my objects were updated  correctly. This lasted a 
 
-long time until I realized I was using  find_by(params[:id]) instead of find or find_by_id. #SMH. 
+long time until I realized I was using  find_by(params[:id]) instead of find or find_by_id. #SMH.
+
+
 ![](https://media.giphy.com/media/xT5LMESsx1kUe8Hiyk/giphy.gif)
 
