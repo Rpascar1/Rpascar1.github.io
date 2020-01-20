@@ -10,7 +10,7 @@ permalink:  toss_a_coin_to_your_witcher_js_frontend_with_rails_api
 As the code dust settles from this latest project I asked myself:  "How have my projects and code improved?".
 
 Over the winter break I coded non-stop gaining experience. When this project rolled around a few weeks later I had a much greater sense of confidence when approching the Frontend goals I set for myyself.
-https://imgur.com/bsjcvZU
+![](https://imgur.com/bsjcvZU)
 
 I manipulated html and css elements to produc a more attractive layout, customizing every aspect instead of leaving base raw html elements.  
 
