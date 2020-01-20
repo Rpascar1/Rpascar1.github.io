@@ -23,3 +23,5 @@ My sinatra project limped along. My first rails project began to walk. This prok
 
 I learned I couldnt call  - this.(whateverattribute) inside the console since I was in the scope of my class and needed to call properties on the specific object variable names. I used debugger and the console constantly. I learned I knew enough to help others with issues that I looked up to. That was a huge confidence booster. 
 
+
+![](https://media.giphy.com/media/xT5LMESsx1kUe8Hiyk/giphy.gif)
