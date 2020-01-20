@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Toss a coin to your witcher / JS Frontend with Rails API"
-date:       2020-01-20 14:43:01 +0000
+date:       2020-01-20 09:43:02 -0500
 permalink:  toss_a_coin_to_your_witcher_js_frontend_with_rails_api
 ---
 
