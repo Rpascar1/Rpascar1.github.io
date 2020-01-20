@@ -5,7 +5,7 @@ date:       2020-01-20 09:43:02 -0500
 permalink:  toss_a_coin_to_your_witcher_js_frontend_with_rails_api
 ---
 
-
+[](https://imgur.com/5ABJkzL)
 
 As the code dust settles from this latest project I asked myself:  "How have my projects and code improved?".
 
