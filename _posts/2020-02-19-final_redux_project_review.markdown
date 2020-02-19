@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Final Redux Project review"
-date:       2020-02-19 19:11:22 +0000
+date:       2020-02-19 14:11:24 -0500
 permalink:  final_redux_project_review
 ---
 
