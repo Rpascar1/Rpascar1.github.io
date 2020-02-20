@@ -5,8 +5,9 @@ date:       2020-02-19 14:11:24 -0500
 permalink:  final_redux_project_review
 ---
 
-
 ![Imgur](https://i.imgur.com/sFcCJDu.png)
+
+
 
 For this project the main requirements to meet are as follows:
 
