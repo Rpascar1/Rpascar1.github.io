@@ -106,8 +106,7 @@ Let's look at a very generalized review about how I handled these tasks.
 
       Taking advantage of both custom CSS and the Semantic-UI interface, addind some styling 
       was easily achieved.
-		
-[](https://i.imgur.com/3hxl9ur.mp4)
+![][Imgur](https://imgur.com/mGOAG1h)
 
 
 												 
