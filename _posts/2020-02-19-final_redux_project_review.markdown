@@ -5,33 +5,36 @@ date:       2020-02-19 14:11:24 -0500
 permalink:  final_redux_project_review
 ---
 
+
+![Imgur](https://i.imgur.com/sFcCJDu.png)
+
 For this project the main requirements to meet are as follows:
 
-Your app should have one HTML page to render your react-redux application
+1. Your app should have one HTML page to render your react-redux application
 
-There should be 2 container components
+2. There should be 2 container components
+ 
+3. There should be 5 stateless components
 
-There should be 5 stateless components
-
-There should be 3 routes
-
-The Application must make use of react-router and proper RESTful routing 
-
-Use Redux middleware to respond to and modify state change
-
-Make use of async actions to send data to and receive data from a server
-
-Rails API should handle the data persistence. You should be using fetch() within your actions to GET and POST data from your API - do not use jQuery methods.
-
-Client-side application should handle the display of data with minimal data manipulation
-
-Application should have some minimal styling
-
-
+4. There should be 3 routes
+ 
+5. The Application must make use of react-router and proper RESTful routing 
+ 
+6. Use Redux middleware to respond to and modify state change
+ 
+7. Make use of async actions to send data to and receive data from a server
+ 
+8. Rails API should handle the data persistence. You should be using fetch() within your actions to GET and POST data from your API - do not use jQuery methods.
+ 
+9. Client-side application should handle the display of data with minimal data manipulation
+ 
+10.   Application should have some minimal styling
 
 
 
-To run my specific application the following additional npm dependencies are needed.
+
+
+To run my specific application the following additional npm dependencies were needed.
 
   ("dependencies": {  
 
@@ -46,7 +49,8 @@ To run my specific application the following additional npm dependencies are nee
     "sass": "1.25.0"
   })
 	
-	Let's look at a very generalized review about how I handled these tasks.
+
+Let's look at a very generalized review about how I handled these tasks.
 	
 1. The app should have one HTML page to render your react-redux application. 
 
@@ -103,15 +107,7 @@ To run my specific application the following additional npm dependencies are nee
       was easily achieved.
 			
 			
-Lasly lets look at the Medic2020 interface that resulted.
 
-
-
-
-
-
-
-![Imgur](https://i.imgur.com/sFcCJDu.png)
 
 												 
 												 
