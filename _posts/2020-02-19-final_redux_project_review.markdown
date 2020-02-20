@@ -107,6 +107,7 @@ Let's look at a very generalized review about how I handled these tasks.
       Taking advantage of both custom CSS and the Semantic-UI interface, addind some styling 
       was easily achieved.
 			![Imgur](https://i.imgur.com/3hxl9ur.mp4)
+			`<blockquote class="imgur-embed-pub" lang="en" data-id="a/HPCz6z3"><a href="//imgur.com/a/HPCz6z3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>`
 			
 
 
