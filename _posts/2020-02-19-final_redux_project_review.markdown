@@ -37,18 +37,17 @@ For this project the main requirements to meet are as follows:
 
 To run my specific application the following additional npm dependencies were needed.
 
-  ("dependencies": {  
+  "dependencies": 
 
   "redux": "4.0.5",
     "redux-form": "8.3.0",
     "redux-thunk": "2.3.0",
     "semantic-redux-form-fields": "0.3.8",
     "semantic-ui-react": "0.88.2"
-  },
 
-  "devDependencies": {
+  "devDependencies": 
     "sass": "1.25.0"
-  })
+ 
 	
 
 Let's look at a very generalized review about how I handled these tasks.
