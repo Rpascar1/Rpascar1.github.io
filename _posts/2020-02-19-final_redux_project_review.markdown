@@ -83,10 +83,10 @@ Let's look at a very generalized review about how I handled these tasks.
 
    Asycronous fetch calls are used for CRUD actions.
  
-8.  Rails API should handle the data persistence. You should be using fetch() within your actions to GET and POST data 
- from your API - do not use jQuery methods.
- 
-   Building from the backend to front I quickly implemented a Rails	API.
+8.  Rails API should handle the data persistence. You should be using fetch() within your actions to GET and POST data        
+     from your API - do not use jQuery methods.
+  
+	    Building from the backend to front facing elements, I quickly implemented a Rails	API.
  
 9.  Client-side application should handle the display of data with minimal data manipulation.
  
