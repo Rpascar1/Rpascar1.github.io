@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Simple SQL Dataset "
-date:       2020-02-25 18:59:14 +0000
+date:       2020-02-25 13:59:15 -0500
 permalink:  simple_sql_dataset
 ---
 
