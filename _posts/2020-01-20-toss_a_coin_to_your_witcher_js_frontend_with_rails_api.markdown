@@ -9,18 +9,20 @@ permalink:  toss_a_coin_to_your_witcher_js_frontend_with_rails_api
 
 As the code dust settles from this latest project I asked myself:  "How have my projects and code improved?".
 
-Over the winter break I coded non-stop gaining experience. When this project rolled around a few weeks later I had a 
+Over the winter-break I coded non-stop gaining more experience. When this JS project rolled around a few weeks later I had learned and manipulated html as well as CSS elements to produce a more attractive layout. I could now customize every aspect of the app instead of leaving base raw HTML elements.  
 
-I manipulated html and css elements to produc a more attractive layout, customizing every aspect instead of leaving base raw html elements.  
-The addition of JavaScript brought new life to  previously static text elements. With each action of user participation in the UI calculation values change on the fly and then update.  
+The addition of JavaScript brought new life to previously static text elements. Each user interaction with the UI would produce a calculated value and make changes on the fly updating values.  
 
 ![](https://i.imgur.com/FCQRlRH.gif)
 
-My sinatra project limped along. My first rails project began to walk. This prokect hopped out of bed made coffee and then went for a 3 mile run with its shirt off and posted it's realtion ship status as single on facebook. 
+My CLI gem really flexed my beginner muslces.
+My Sinatra project limped along. 
+My first rails project began to walk. 
+This JavaScript project hopped out of bed, made coffee, went for a three-mile run with its shirt off and updated its relationship status to single on Facebook. 
 
 ![](https://i.imgur.com/2elDGRg.gif)
 
-I learned I couldnt call  - this.(whateverattribute) inside the console since I was in the scope of my class and needed to call properties on the specific object variable names. I used debugger and the console constantly. I learned I knew enough to help others with issues that I looked up to. That was a huge confidence booster. 
+The biggest take-aways were: Learning that I couldn’t call “this.whatever-attribute-here” inside the console if I wasn’t in the scope of my class and needed to call properties on the specific class object variable name. Using debugger and the console constantly for this project rather than pry or byebug for rails projects past. Most importantly I had learned that I knew enough to help others with issues that I looked up to and that was a huge confidence booster. 
 
  ![](https://i.imgur.com/9RgUWFR.gif)
 
