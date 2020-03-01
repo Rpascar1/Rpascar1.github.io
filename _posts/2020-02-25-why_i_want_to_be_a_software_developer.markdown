@@ -14,7 +14,7 @@ I will never forget the first time after my career change and having graduated f
 
 In my last career I had attained a certain level of success that would satisfy many people. But I woke up every day and went to work wanting to do more. Something that I found engaging on a different level. I wanted to build something that worked for people. That would be reused over and over. After building my first website and then CLI gem I was hooked. I wanted to code and talk about code and have friends that code and teach other people to code. I had the bug without a doubt. 
 
-So, why did I want to be a software developer in a concrete answer?  Because it makes me proud to say. I feel great because it means so much more than I code. It means I took risk and quit a career to change my life so I would be happier. It means I get to make things for people they find useful. It means I get to learn forever. It means - meaning and purpose that didn't exist before. 
+So, why did I want to be a software developer in a concrete answer?  Because it makes me proud to say. I feel great because it means so much more than I code. It means I took risk and quit a career to change my life so I would be happier doing something I like every day. It means I get to make things for people they find useful. It means I get to learn forever. It means - meaning and purpose that didn't exist before. 
 
 That's why I am a developer.  
 
